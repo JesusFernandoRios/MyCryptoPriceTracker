@@ -19,10 +19,10 @@ function App() {
   return (
     <div className="App">
       
-      <div>
+      <div className="coin-search">
           <h1>Search A crypto currency</h1>
           <form>
-            <input type="text" placeholder="Search"/>
+            <input type="text" placeholder="Search" className="search-input"/>
           </form>
       </div>
       
