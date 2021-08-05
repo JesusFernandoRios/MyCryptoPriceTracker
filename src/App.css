@@ -20,7 +20,7 @@
     height: 100vh;
     color: white;
     background: 
-        linear-gradient(-225deg, rgba(162, 6, 235, 0.99) ,  rgba(0, 183, 255, 0.6)),
+        linear-gradient(-225deg, rgba(2, 94, 131, 0.80), rgba(162, 6, 235, 0.80)),
         url("./components/styles/images/crypto-background.jpg") no-repeat center center / cover;
     
 
